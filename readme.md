@@ -1,15 +1,9 @@
-Title         : Welcome
-Author        : Michael Wu
-Logo          : True
+# About this Demo
 
-[TITLE]
+---
 
-# About this Demo 
+This Demo is  pure personal record of learning the LayaAir Engine. If you have the same goal of learning the engine, come and joy me. I hope this little project will help you learn it more quickly!
 
-This Demo is pure personal record of Learning LayaAir Engine.
 
-* Read the [LayaAir document].
 
-Enjoy!
 
-[LayaAir document]: https://ldc.layabox.com/doc/  "Madoko reference manual"
