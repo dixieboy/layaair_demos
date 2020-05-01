@@ -1,5 +1,4 @@
 ﻿import GameConfig from "./GameConfig";
-import MaskDemo from "./script/MaskDemo";
 
 class Main {
 	constructor() {

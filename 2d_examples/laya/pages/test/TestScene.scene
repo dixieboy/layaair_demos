@@ -1,8 +1,7 @@
 {
     "x":0,
     "type":"Scene",
-    "selectedBox":14,
-    "selecteID":21,
+    "selectedBox":1,
     "searchKey":"Scene,gameBox",
     "referenceLines":null,
     "props":{"width":640,"sceneColor":"#000000","runtime":"script/GameUI.js","name":"gameBox","height":1136},
